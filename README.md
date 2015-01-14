@@ -1,4 +1,8 @@
 # secgit
 create branch dev success!
 current branch dev
-a和B
+<<<<<<< HEAD
+a&&b
+=======
+a&&b
+>>>>>>> dev
